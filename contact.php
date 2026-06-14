@@ -66,7 +66,7 @@ include 'includes/header.php';
 
             <div class="info-box">
                 <h4>🕒 ساعات العمل</h4>
-                <p>من 9 صباحًا حتى 2 ظهرا</p>
+                <p>من 9 صباحًا حتى 9 مساءا</p>
             </div>
 
         </div>
